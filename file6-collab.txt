@@ -1,2 +1,4 @@
 abc
 Next line
+new line for merge conflict
+
